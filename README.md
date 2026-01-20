@@ -1,4 +1,4 @@
-![마우스 패드 이미지임](https://github.com/jeonghonggi/test-1/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-11-17%20150120.png)
+![마우스 패드 이미지임](./%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-11-17%20150120.png)
 
 # README 파일이란?
 
